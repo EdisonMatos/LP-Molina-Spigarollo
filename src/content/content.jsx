@@ -46,8 +46,8 @@ export const infos = {
   domain: "molinaspigarollo.adv.br", // Sem "www"
   phone: {
     ddd: "43",
-    firstPart: "99930", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "6776", // Apenas os 4 últimos números
+    firstPart: "98429", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0390", // Apenas os 4 últimos números
   },
   endereco: (
     <div>
@@ -329,7 +329,7 @@ const content = {
       subtitle: "Experiência e dedicação que fazem a diferença",
       paragraph: (
         <div>
-          A Molina & Spigarollo é um escritório de advocacia especializado,
+          O Molina & Spigarollo é um escritório de advocacia especializado,
           fruto da parceria entre os advogados Jadson Molina (OAB/PR 63.996) e
           Leonardo Spigarollo (OAB/PR 99.057). Juntos, eles unem mais de uma
           década de experiência para oferecer soluções jurídicas completas e
@@ -345,7 +345,7 @@ const content = {
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          A Molina & Spigarollo é um escritório de advocacia especializado,
+          O Molina & Spigarollo é um escritório de advocacia especializado,
           fruto da parceria entre os advogados Jadson Molina (OAB/PR 63.996) e
           Leonardo Spigarollo (OAB/PR 99.057). Juntos, eles unem mais de uma
           década de experiência para oferecer soluções jurídicas completas e
@@ -381,7 +381,7 @@ const content = {
           condomínios às exigências da <strong>LGPD</strong>.
           <br />
           <br />
-          Na <strong>Molina & Spigarollo</strong>, buscamos ser mais do que
+          No <strong>Molina & Spigarollo</strong>, buscamos ser mais do que
           advogados; queremos ser parceiros confiáveis na busca por justiça e
           proteção dos seus direitos.
           <br />
